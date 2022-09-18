@@ -8,3 +8,7 @@ I find this interesting article about the recent drama about Apple and Google me
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 -->
+
+## Comment from Larry Li
+
+- The issue addressed in the article is worth discussing and should be given more attention. Regulators, policy-makers, tech giants, and individual developers should consider whether there should be a uniform protocol for essential functions like internet messaging and calling (e.g., iMessage and FaceTime on Apple Device) to ensure basic user experience and prevent monopoly.
